@@ -38,6 +38,7 @@ p {
 #first {
 	/* картинка всегда по ширине*/
 	background: url(../img/first.jpg) no-repeat center top / cover;
+	background-color: black;
 	height: 450px;
 	color: #fff;
 	margin: 0px auto;
