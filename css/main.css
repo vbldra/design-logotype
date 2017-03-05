@@ -186,13 +186,13 @@ h2 {
 }
 
 
-.social-block {
+.external-block {
 	padding: 20px 0px;
 	margin: 0px auto;
 	width: 110px;
 }
 
-.social {
+.external {
 	/*font-size: 30px;*/
 	text-decoration: none;
 	color: #fff;
@@ -207,11 +207,11 @@ h2 {
 	margin-right: 10px;
 }
 
-.social:nth-child(3) {
+.external:nth-child(3) {
 	margin-right: 0;
 }
 
-.social:hover {
+.external:hover {
 	background-color: #e47727;
 	box-shadow: 0px 0px 0px 5px #fecaa4;
 
